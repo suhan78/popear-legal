@@ -1,11 +1,10 @@
 ---
-title: PopEar Legal
+title: PopEar
 ---
 
-# PopEar Legal
-
-Documents:
+# PopEar
 
 - [Privacy Policy](./privacy/)
+- [Support](./support/)
 
 Contact: [support@normaleer.com](mailto:support@normaleer.com)
